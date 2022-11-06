@@ -122,9 +122,9 @@ function loadBoxscore(stats) {
     let team;
 
     if (i === 0) {
-      team = stats.home;
-    } else {
       team = stats.visit;
+    } else {
+      team = stats.home;
     }
 
     for (let j = 0; j < team.length; j++) {

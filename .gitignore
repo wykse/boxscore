@@ -1,0 +1,3 @@
+# Ignore web ext builds
+web-ext-artifacts/**
+.web-extension-id

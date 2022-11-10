@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "boxscore",
-  "description": "Box score for game.",
-  "version": "0.0.1",
+  "description": "Box score for NBA games on YouTube.",
+  "version": "0.0.2",
   "icons": {
     "64": "icons/icon.png"
   },

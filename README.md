@@ -10,7 +10,7 @@ The extension only provides box scores for 2022-2023 regular season games becaus
 
 ## Install
 
-Coming soon.
+Go to [releases](https://github.com/wykse/boxscore/releases).
 
 ## Usage
 

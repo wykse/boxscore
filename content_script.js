@@ -167,7 +167,7 @@ function loadBoxscore(stats) {
               break;
           }
           // Add players starting at 0
-        } else if (players[j - 1].min !== 0 && players[j - 1].sec !== 0) {
+        } else if (players[j - 1].min + players[j - 1].sec > 0) {
           const td = tr.insertCell();
           td.style.border = "1px solid #ddd";
           td.style.padding = "5px";
